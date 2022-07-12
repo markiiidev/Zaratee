@@ -69697,3 +69697,8 @@ i.mdi.rounded-circle.bg-white{
 .text-teal{
   color: #48e19e !important;
 }
+
+@media only screen and (min-width: 768px) {
+
+
+}
