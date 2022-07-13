@@ -73,6 +73,10 @@ section {
   display: block;
 }
 
+html,body{
+  overflow-x: hidden;
+}
+
 body {
   box-sizing: border-box;
   overflow-x: hidden !important;
